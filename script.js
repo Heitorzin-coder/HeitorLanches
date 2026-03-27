@@ -10,47 +10,47 @@ const produtos = [
   {
     nome: "Hamburguer Normal (Foto Meramente Ilustrativa)",
     preco: 15,
-    imagem: ""
+    imagem: "hambúrguer normal.jpg"
   },
   {
     nome: "Hamburguer Grande (Foto Meramente Ilustrativa)",
     preco: 20,
-    imagem: ""
+    imagem: "grande burgue.webp"
   },
   {
     nome: "Pizza Pequena (Foto Meramente Ilustrativa)",
     preco: 15,
-    imagem: ""
+    imagem: "pizza pequenina.jpeg"
   },
   {
     nome: "Pizza Grande (Foto Meramente Ilustrativa)",
     preco: 35,
-    imagem: ""
+    imagem: "pizza grande.avif"
   },
   {
     nome: "Coxa de Frango (Foto Meramente Ilustrativa)",
     preco: 25,
-    imagem: ""
+    imagem: "coxa de frango.jpeg"
   },
   {
     nome: "Coca-Cola Gelada (Foto Meramente Ilustrativa)",
     preco: 5,
-    imagem: ""
+    imagem: "coquinha geladinha.jpeg"
   },
   {
     nome: "Guaraná Gelado (Foto Meramente Ilustrativa)",
     preco: 5,
-    imagem: ""
+    imagem: "guaranazin gelado.webp"
   },
   {
     nome: "Petit Gateau (Foto Meramente Ilustrativa)",
     preco: 10,
-    imagem: ""
+    imagem: "petit gateau.jpeg"
   },
   {
     nome: "Pudim (Foto Meramente Ilustrativa)",
     preco: 10,
-    imagem: ""
+    imagem: "pudim.jpg"
   },
 ];
 
