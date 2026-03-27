@@ -10,7 +10,7 @@ const produtos = [
   {
     nome: "Hamburguer Normal (Foto Meramente Ilustrativa)",
     preco: 15,
-    imagem: "hambúrguer normal.jpg"
+    imagem: "hamburguer normal.jpg"
   },
   {
     nome: "Hamburguer Grande (Foto Meramente Ilustrativa)",
