@@ -140,7 +140,7 @@ function finalizarPedido() {
   const total = carrinho.reduce((s, p) => s + p.preco, 0);
   mensagem += `\nTotal: R$ ${total}`;
 
-  const link = `mailto:${emailVendas}?subject=Pedido - GL Imports&body=${encodeURIComponent(mensagem)}`;
+  const link = `mailto:${emailVendas}?subject=Pedido - HeitorLanches&body=${encodeURIComponent(mensagem)}`;
   window.location.href = link;
 }
 
